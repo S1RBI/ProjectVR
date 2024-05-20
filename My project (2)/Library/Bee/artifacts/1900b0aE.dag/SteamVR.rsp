@@ -123,6 +123,8 @@
 -define:UNITY_UGUI_UI
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/StandaloneFileBrowser/Plugins/Ookii.Dialogs.dll"
+-r:"Assets/StandaloneFileBrowser/Plugins/System.Windows.Forms.dll"
 -r:"Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll"
 -r:"D:/Program Files/UnityHub/2022.3.24f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"D:/Program Files/UnityHub/2022.3.24f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
